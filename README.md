@@ -1,0 +1,1 @@
+This was my first attempt at writing a programming language. Things didn’t go as planned, and I ended up leaving the project midway. Still, I’ve decided not to delete the repository. One day, I hope to revisit this idea, build a proper successor, and redeem my past self for giving up too soon.
